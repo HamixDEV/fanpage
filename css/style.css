@@ -17,3 +17,18 @@ a {
     width: 30px;
     margin: 15px;
 }
+#navbar{
+    display: flex;
+    text-align: center
+}
+#header{
+    display: flex;
+    text-align: center
+}
+#footer{
+    display: flex;
+    text-align: center
+}
+#manuimg{
+    width: 20px;
+}
