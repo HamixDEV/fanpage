@@ -1,0 +1,106 @@
+
+.navbar{
+margin:7px;
+}
+body{
+    background-color: #f5f5dc;
+}
+.title{
+    font-family: 'Fredoka One', cursive;
+    font-size:20px;
+}
+#Manutitle{
+    text-align: left;
+    font-size: auto;
+    margin-bottom: 3px
+}
+#pic{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 400px;
+}
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    color:pink;
+    font-size: 1%;
+    border:5px solid black;
+}
+.beginfo{
+    width: 85%;
+ height:40%;
+ margin-top: 10px;
+ margin-botton:10px;
+ border:10px solid pink;
+
+}
+#oderpic{
+    display:flex;
+    justify-content:right;
+    float:right;
+    width:7%;
+}
+.histo{
+    font-family: 'Merriweather', serif;
+    border:10px solid orange;
+}
+#cr{
+    text-align: center;
+}
+.Featspage{
+    text-align: center;
+}
+.histo{
+    text-align: center;
+}
+#pic{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 200px;
+}
+#oldT{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 200px;
+    border:10px solid pink;
+    float: right;
+}
+#siraf{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 200px;
+    border:10px solid pink;
+    
+}
+#crseven{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 200px;
+    border:10px solid pink;
+}
+#ximan{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 200px;
+    border:10px solid pink;
+}
+.row{   
+    display:flex;
+    background-color:black;
+    color:white;
+    font-size:20px;
+    justify-content:center;
+    justify-content:space-around;
+}
